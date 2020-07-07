@@ -1,5 +1,5 @@
 # IE360 ProjectReport
-[Our Project](IE360project.html)
+[Our Project](Ie_360_project_Rmarkdown.html)
 
 # IE360 ProjectCode
 [Our Project R Code](IE360 - Project code.R)
